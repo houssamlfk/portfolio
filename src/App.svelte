@@ -476,6 +476,8 @@
 		font-size: 13px;
 	}
 	body {
-		background: red;
+		margin: 0;
+		padding: 0;
+		background: white;
 	}
 </style>
